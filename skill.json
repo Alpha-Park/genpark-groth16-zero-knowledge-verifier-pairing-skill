@@ -1,0 +1,13 @@
+{
+  "name": "genpark-groth16-zero-knowledge-verifier-pairing-skill",
+  "version": "1.0.0",
+  "description": "Groth16 zk-SNARK verification equation solver evaluating bilinear pairings and public input polynomial combinations.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "groth16",
+    "pairing-cryptography",
+    "snark-verifier",
+    "bilinear-maps"
+  ]
+}
